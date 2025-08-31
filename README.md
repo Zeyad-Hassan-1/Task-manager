@@ -2,6 +2,12 @@
 
 A modern task management application built with Next.js 15, React 19, and TypeScript.
 
+## Demo
+
+https://github.com/user-attachments/assets/ab53ef2d-9ad4-4606-ac87-0b982d7f0923
+
+
+
 ## Features
 
 - Create, read, update, and delete tasks
